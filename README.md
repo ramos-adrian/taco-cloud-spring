@@ -11,7 +11,11 @@ Taco cloud is a fullstack web application built with Java Spring framework. Foll
 
 ## Features
 
+* Spring MVC
 * Simple home page
+* Design your own taco, form processing
+* Session attributes management
+* Form validation
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
@@ -40,7 +44,7 @@ Taco cloud is a fullstack web application built with Java Spring framework. Foll
 1. Clone the repository
 
    ```sh
-   git clone 
+   git clone https://github.com/ramos-adrian/taco-cloud-spring.git
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -61,7 +65,7 @@ Ramos, Adrián David - ramosadrian@pm.me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-david-ramos/)
 
 This project
-Link: []()
+Link: [https://github.com/ramos-adrian/taco-cloud-spring.git](https://github.com/ramos-adrian/taco-cloud-spring.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
