@@ -16,6 +16,8 @@ Taco cloud is a fullstack web application built with Java Spring framework. Foll
 * Design your own taco, form processing
 * Session attributes management
 * Form validation
+* H2 in memory database
+* JDBCTemplate for database access
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
